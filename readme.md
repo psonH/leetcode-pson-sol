@@ -1,0 +1,1 @@
+This repo contains my solutions to LeetCode problems, written primarily in [JavaScript]. Each solution includes the problem statement link, my approach, and time/space complexity notes. Problems are organized by category — arrays, strings, dynamic programming, graphs, and more. Built as a personal reference and a log of consistent practice.
